@@ -141,10 +141,10 @@ This project demonstrates how raw data can be transformed into **meaningful busi
 # 📸 Dashboard Preview
 
 ## 🏠 ExecSummary
-![ExecSummary](screenshots/exec-summary.png)
+(screenshots/exec-summary.png)
 
 ## 🔍 Drillthrough Page
-![Drillthrough](screenshots/category-drillthrough.png)
+(screenshots/category-drillthrough.png)
 
 ---
 
